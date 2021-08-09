@@ -1,43 +1,33 @@
 # Exam-Portal-Backend
 
-Spring boot backend of the exam portal application.
+Spring boot backend of the exam portal application. 
 
 Check the frontend at the below link.
 
 Angular Frontend - [GitHub Repo](https://github.com/neeru-1997/Exam-Portal-Frontend) 
 
-## Screenshots
+## API Documentation Screenshots
 
- - 
+API Documentation generated using SwaggerUI.
 
-![image](https://user-images.githubusercontent.com/34072232/127365236-9586bf84-8cba-4b05-a96d-b8a2779fd6fd.png)
+(![image](https://user-images.githubusercontent.com/34072232/128722642-e5f5982c-6f4d-4e98-a7e4-51896d3ec350.png))
 
-Sort the games using following options - 
+Authentication - 
 
-![image](https://user-images.githubusercontent.com/34072232/127366359-6e00de69-cae6-47d8-935c-4096487f6816.png)
+![image](https://user-images.githubusercontent.com/34072232/128723933-5d88d0ce-43dc-42c7-9c3f-2b2fa97b4a8d.png)
 
-### Game Details
+User Controller - 
 
-About Tab - 
+![image](https://user-images.githubusercontent.com/34072232/128724169-0156c526-500e-48f8-b813-4bb102b6cb39.png)
 
-![image](https://user-images.githubusercontent.com/34072232/127367275-fa13f174-5804-4af1-b67f-fdc9dc3ccde1.png)
+Category Controller - 
 
-Screeshots Tab - 
+![image](https://user-images.githubusercontent.com/34072232/128724273-fa3e8e9e-a248-4b0d-9b57-a328a123a61f.png)
 
-![image](https://user-images.githubusercontent.com/34072232/127367939-9713385f-c86d-4618-a854-7c28a15e7559.png)
+Quiz Controller - 
 
+![image](https://user-images.githubusercontent.com/34072232/128724379-4ba6ba7d-d714-427c-b284-957948d4a7ee.png)
 
-Trailers Tab - 
+Question Controller - 
 
-![image](https://user-images.githubusercontent.com/34072232/127368013-10c0f0e0-3a41-46f6-8866-2c2c6bbcbabf.png)
-
-
-## To Execute The Code - 
-
-Run `npm install` to get all the dependencies in the node_modules folder. 
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+![image](https://user-images.githubusercontent.com/34072232/128724513-dd3f0d08-e34b-442c-9abb-63b5aa33a3a6.png)
