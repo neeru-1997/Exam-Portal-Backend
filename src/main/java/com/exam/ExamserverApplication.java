@@ -1,5 +1,6 @@
 package com.exam;
 
+import com.exam.config.SwaggerConfiguration;
 import com.exam.model.Role;
 import com.exam.model.User;
 import com.exam.model.UserRole;
@@ -8,11 +9,14 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Import;
+
 
 import java.util.HashSet;
 import java.util.Set;
 
 @SpringBootApplication
+@Import(SwaggerConfiguration.class)
 public class ExamserverApplication implements CommandLineRunner {
 
     @Autowired
