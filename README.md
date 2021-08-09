@@ -10,7 +10,7 @@ Angular Frontend - [GitHub Repo](https://github.com/neeru-1997/Exam-Portal-Front
 
 API Documentation generated using SwaggerUI.
 
-![image](https://user-images.githubusercontent.com/34072232/128722642-e5f5982c-6f4d-4e98-a7e4-51896d3ec350.png))
+![image](https://user-images.githubusercontent.com/34072232/128722642-e5f5982c-6f4d-4e98-a7e4-51896d3ec350.png)
 
 Authentication - 
 
