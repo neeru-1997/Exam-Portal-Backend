@@ -1,14 +1,14 @@
 # Exam-Portal-Backend
 
-# NgVideoGameDb - [Check The Application Here](https://festive-spence-03fd6a.netlify.app/)
+Spring boot backend of the exam portal application.
 
-A game database website. 
+Check the frontend at the below link.
 
-API Details - [RAWG Video Game DB](https://rapidapi.com/accujazz/api/rawg-video-games-database/details) 
+Angular Frontend - [GitHub Repo](https://github.com/neeru-1997/Exam-Portal-Frontend) 
 
 ## Screenshots
 
-Home Page - 
+ - 
 
 ![image](https://user-images.githubusercontent.com/34072232/127365236-9586bf84-8cba-4b05-a96d-b8a2779fd6fd.png)
 
